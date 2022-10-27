@@ -1,10 +1,8 @@
-# Module3_Python
-Election_Analysis
-
-
-
+# Election Analysis
 
 ## Overview of Election Audit
+In this audit, we are trying to find the different resoults for each county and each candidate, measured in voutes count and percentage of the votes.
+
 
 ## Purpose of the election analysis:
 
