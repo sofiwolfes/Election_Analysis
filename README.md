@@ -11,7 +11,7 @@ Election_Analysis
 #Election Audit Results
 
 
-![Alt text](https://github.com/sofiwolfes/Election_Analysis/blob/main/Challenge/Resources/The%20Election%20Results%20Printed%20to%20the%20Command%20Line.png "PICTURE")
+![Alt text](https://github.com/sofiwolfes/Election_Analysis/blob/main/Challenge/Resources/The%20Election%20Results%20Printed%20to%20the%20Command%20Line.png)
 
 ![Alt text] 
 
