@@ -11,9 +11,9 @@ Election_Analysis
 #Election Audit Results
 
 
-![Alt text] Challenge/Resources/The Election Results Printed to the Command Line.png
+![Alt text] (Challenge/Resources/The Election Results Printed to the Command Line.png)
 
-![Alt text]
+![Alt text] 
 
 
 -----------------------------
