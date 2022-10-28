@@ -31,7 +31,7 @@ The largest county turnout is the county of *Denver*.
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
-~*To the election commission:*~
+_*To the election commission:*_
 
 
 ### Election Analysis Results as displayed in the Command Line:
