@@ -35,9 +35,9 @@ The largest county turnout is the county of *Denver*.
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
-_*To the election commission:*_
-_Given the above results, Diana DeGette is the official winner of the elections._
-_Note that the county of Arapahoe is the county that had the least amount of votes, and Denver the one with most votes with a big difference to the other two._
+*To the election commission:*
+-Given the above results, Diana DeGette is the official winner of the elections.-
+-Note that the county of Arapahoe is the county that had the least amount of votes, and Denver the one with most votes with a big difference to the other two.-
 
 
 ### Election Analysis Results as displayed in the Command Line:
