@@ -5,9 +5,13 @@ In this audit, we are trying to find the different results for each county and e
 
 
 ## Purpose of the election analysis:
-The main purpose or goal of this analysis is to find out who is the winner of the elections.
+The main purpose or goal of this analysis is to find out who is the winner of the elections to present to the election commission.
 
-Then, the other data we want to 
+Then, the other data we want to extract from this analysis is how many votes we got per county, per candidate, and the percentage of each.
+
+With this pieces of data, we are able to define the winner of the elections, as well as the county with the largest turnout.
+
+Please reference below for the results.
 
 ### Election Audit Summary:
 
@@ -32,6 +36,8 @@ The largest county turnout is the county of *Denver*.
 - Winning Percentage: 73.8%
 
 _*To the election commission:*_
+_Given the above results, Diana DeGette is the official winner of the elections._
+_Note that the county of Arapahoe is the county that had the least amount of votes, and Denver the one with most votes with a big difference to the other two._
 
 
 ### Election Analysis Results as displayed in the Command Line:
