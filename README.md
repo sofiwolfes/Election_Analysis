@@ -35,6 +35,8 @@ The largest county turnout is the county of *Denver*.
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
+
+
 *To the election commission:*
 
 Given the above results, Diana DeGette is the official winner of the elections.
